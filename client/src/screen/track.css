@@ -1,0 +1,70 @@
+#Outer-Box
+{
+    width: 80%;
+    height: auto;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+
+#button-design
+{
+    width: 90%;
+    padding: 14px;
+}
+
+#proceed-button
+{
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    border-radius: 5px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;  
+    padding-top: 5px;
+    padding-bottom: 5px; 
+    background: #7f7fd5; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #7f7fd5, #86a8e7, #91eae4); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #7f7fd5, #86a8e7, #91eae4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+}
+
+
+
+
+
+@media screen and (max-width:700px) {
+    #button-design
+{
+    width: 70%;
+    padding: 10px;
+}
+#proceed-button
+{
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    border-radius: 5px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;  
+    padding-top: 5px;
+    padding-bottom: 5px; 
+}
+
+
+
+}
+
+
+
+
+@media screen and (max-width:400px) {
+    #button-design
+{
+    width: 90%;
+    padding: 7px;
+}
+}
+
+

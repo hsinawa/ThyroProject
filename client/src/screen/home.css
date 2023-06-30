@@ -1,0 +1,56 @@
+
+.sub-heading
+{
+    text-align: left;
+    
+    margin-left: 5%;
+}
+
+
+#medical-test
+{
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+}
+
+
+
+@media screen and (max-width:900px) {
+    
+}
+
+
+
+
+
+@media screen and (max-width:700px) {
+    .sub-heading
+{
+    text-align: left;
+    font-size: larger;
+    margin-left: 8%;
+}
+
+
+
+}
+
+
+
+@media screen and (max-width:500px) {
+
+    .sub-heading
+    {
+        text-align: left;
+        font-size: larger;
+        margin-left: 10%;
+    }
+    
+    
+}
+
+
+
+@media screen and (max-width:300px) {
+    
+}
