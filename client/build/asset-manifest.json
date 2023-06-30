@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.737ecade.css",
+    "main.js": "/static/js/main.4c8d27ce.js",
+    "static/media/bloodtest.gif": "/static/media/bloodtest.bb08382686301d1e18ca.gif",
+    "static/media/healthcare.png": "/static/media/healthcare.89e51437c4ac5b128d52.png",
+    "static/media/yboe.png": "/static/media/yboe.696ded1d9cb0bb618843.png",
+    "static/media/are.png": "/static/media/are.5e31a45666578484ea5f.png",
+    "static/media/sayd.png": "/static/media/sayd.7144fe0946a0e4cb7196.png",
+    "static/media/accurateresults.png": "/static/media/accurateresults.114e57e4253230731550.png",
+    "static/media/wellbe.png": "/static/media/wellbe.894c554ba30aab032199.png",
+    "static/media/customers.png": "/static/media/customers.86f03b25e85c6fb6e855.png",
+    "static/media/am.png": "/static/media/am.dc84ba9f2f0ae996b3a5.png",
+    "static/media/rating.jpeg": "/static/media/rating.d49f3159d482d64fb6f8.jpeg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "static/media/diab.svg": "/static/media/diab.c4c6e5f87da17f7dcca6fa811e67887e.svg",
+    "main.737ecade.css.map": "/static/css/main.737ecade.css.map",
+    "main.4c8d27ce.js.map": "/static/js/main.4c8d27ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.737ecade.css",
+    "static/js/main.4c8d27ce.js"
+  ]
+}
